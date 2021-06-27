@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="text_judul">Judul</string>
+    <string name="text_overview">Overview</string>
+    <string name="text_tanggal_rilis">Tanggal Rilis</string>
+    <string name="text_rating">Rating</string>
+</resources>
